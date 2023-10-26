@@ -74,7 +74,9 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 # Trabajo final - Terminal Portuaria
 * [Trabajo Final - Enunciado](https://github.com/POO2UNQ/site/blob/main/TP%20Integrador%202023/Trabajo%20Final%202do%20Sem%202023%20-%20Terminal%20Portuaria.pdf)
 
-
+# Semana 9
+Importante: para la resolución del TP se sugiere complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
+* [TP Observer](https://github.com/POO2UNQ/site/tree/main/TP%20Observer)
 
 <!--
 ---
@@ -97,12 +99,7 @@ Importante: el material de estudio, ademas de los apuntes de la teoria son los c
 
 
 
----
-# Semana 9
-Importante: para la resolución del TP se sugiere complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
 
-* [TP State y Strategy](https://github.com/POO2UNQ/site/tree/main/TP%20State%20y%20Strategy)
-* [TP Observer](https://github.com/POO2UNQ/site/tree/main/TP%20Observer)
 
 
 ---
